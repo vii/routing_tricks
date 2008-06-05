@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/rails-plugins/!svn/ver/23/routing_tricks/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/rails-plugins/!svn/ver/23/routing_tricks/test/test_helper.rb
+END
+redirect_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rails-plugins/!svn/ver/22/routing_tricks/test/redirect_test.rb
+END
+host_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rails-plugins/!svn/ver/23/routing_tricks/test/host_test.rb
+END
